@@ -1,20 +1,3 @@
-img {
- border-radius: 75px;
-}
-h2 {
- font-size: 18px;
-}
-body {
- background-color: slateblue;
- font-family: Trebuchet MS;
- color: white;
-}
-a {
- background-color: white;
- font-size: 20px;
- border-radius: 10px;
- padding: 10px;
-}
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
@@ -22,8 +5,8 @@ a {
 <body>
 <img src="https://mimo.app/i/earth.png"
 <h1>AKA AJ</h1>
-<h2>Aspiration in on winwon media content creating</h2>
-<p> e-body's welcomed ton page!</p>
+<h2> Follow and subscribe on the pages below</h2>
+<p>thank you verymuch</p>
 <a href="https://www.instagram.com/aejalov" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/aejalov" target="_blank">Linkedin</a>
 <a
