@@ -22,20 +22,3 @@ href="https://www.facebook.com/aejalov"
 target="_blank">Facebook</a>
 </body>
 </html>
-img {
- border-radius: 75px;
-}
-h2 {
- font-size: 18px;
-}
-body {
- background-color: slateblue;
- font-family: Trebuchet MS;
- color: white;
-}
-a {
- background-color: white;
- font-size: 20px;
- border-radius: 10px;
- padding: 10px;
-}
