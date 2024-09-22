@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="https://mimo.app/i/earth.png"
 <h1>AKA AJ</h1>
 <h2> Follow and subscribe on the pages below</h2>
 <p>thank you verymuch</p>
