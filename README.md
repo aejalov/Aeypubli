@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="https://www.canva.com/design/DAGRe9O9gBE/8xqNhZYToY9UVA0RMHL_Yw/edit?utm_content=DAGRe9O9gBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="150">
 <h1>AKA AJ</h1>
 <h2>Aspiration in on winwon media content creating</h2>
 <p> e-body's welcomed ton page!</p>
@@ -18,7 +17,7 @@ target="_blank">Twitch</a>
 <a
 href="https://www.youtube.com/@aejalov
 <a
-href="https://www.threads.net/@aejalov?xmt"
+href="https://www.threads.net/@aejalov"
 target="_blank">Threads</a>
 <a
 href="https://www.facebook.com/aejalov"
