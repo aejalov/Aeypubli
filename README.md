@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/aejalov" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/aejalov" target="_blank">Linkedin</a>
 <a
-href="https://www.twitter.com.com/aejalov"
+href="https://www.twitter.com/aejalov"
 target="_blank">Twitter</a>
 <a
 href="https://twitch.tv/aejalov"
@@ -18,7 +18,7 @@ target="_blank">Twitch</a>
 <a
 href="https://www.youtube.com/@aejalov
 <a
-href="https://www.threads.net/@aejalov?xmt
+href="https://www.threads.net/@aejalov?xmt"
 target="_blank">Threads</a>
 <a
 href="https://www.facebook.com/aejalov"
