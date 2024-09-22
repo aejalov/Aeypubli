@@ -3,6 +3,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<img src="https://mimo.app/i/earth.png"
 <h1>AKA AJ</h1>
 <h2>Aspiration in on winwon media content creating</h2>
 <p> e-body's welcomed ton page!</p>
@@ -15,10 +16,7 @@ target="_blank">Twitter</a>
 href="https://twitch.tv/aejalov"
 target="_blank">Twitch</a>
 <a
-href="https://www.youtube.com/@aejalov
-<a
-href="https://www.threads.net/@aejalov"
-target="_blank">Threads</a>
+href="https://www.youtube.com/@aejalov"
 <a
 href="https://www.facebook.com/aejalov"
 target="_blank">Facebook</a>
