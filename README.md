@@ -1,4 +1,4 @@
-### holla wrld
+## holla wrld
 
 ##### for any some engagement hit me up darlin
 
@@ -21,4 +21,4 @@
 
 
 
-[straight as a die!】
+###### As straight as a die.
