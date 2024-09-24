@@ -1,8 +1,8 @@
-## holla wrld
+## Holla wrld
 
 ##### for any some engagement hit me up darlin
 
-### expand your inner ability of expression, is one of all expected all anticipate from you 
+### Expand your inner ability to expression, is one of all expective which anticipated from you. 
 
 *[Linkedin](https://www.linkedin.com/in/aejalov) *[Twitter](https://www.twitter.com/aejalov) *[Facebook](https://www.facebook.com/aejalov) *[Youtube](https://www.youtube.com/@aejalov) *[Instagram](https://www.instagram.com/aejalov)
 
@@ -22,3 +22,7 @@
 
 
 ###### As straight as a die.
+
+
+### Contact: alagiejallow211@gmail.com
+###### home
