@@ -21,10 +21,4 @@
 
 
 
-
-
-
-
-Function greatUser
-
-straight as a die
+[straight as a die!】
