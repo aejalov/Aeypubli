@@ -10,11 +10,9 @@
 ### Podcast/Music
 
 
-* [Bandlab](https://www.bandlab.com/aejalov)
-*
-[Spotify](https://open.spotify.com/user/icujon3lwnhm995g0x0hrt7ea?si=U_NAdJhjTYyY1ubiG2V0wQ)
-*
-[SoundCloud](https://on.soundcloud.com/wuChZ)
+*[Bandlab](https://www.bandlab.com/aejalov)
+*[Spotify](https://open.spotify.com/user/icujon3lwnhm995g0x0hrt7ea?si=U_NAdJhjTYyY1ubiG2V0wQ)
+*[SoundCloud](https://on.soundcloud.com/wuChZ)
 
 ...
 
