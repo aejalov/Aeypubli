@@ -1,23 +1,36 @@
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-<h1>AKA AJ</h1>
-<h2> Follow and subscribe on the pages below</h2>
-<p>thank you verymuch</p>
-<a href="https://www.instagram.com/aejalov" target="_blank">Instagram</a>
-<a href="https://www.linkedin.com/in/aejalov" target="_blank">Linkedin</a>
-<a
-href="https://www.twitter.com/aejalov"
-target="_blank">Twitter</a>
-<a
-href="https://twitch.tv/aejalov"
-target="_blank">Twitch</a>
-<a
-href="https://www.youtube.com/@aejalov"
-<a
-href="https://www.facebook.com/aejalov"
-target="_blank">Facebook</a>
-</body>
-</html>
+# holla wrld
+
+## for any some engagement hit me up darlin
+
+### expand your inner ability of expression, is one of all expected all anticipate from you 
+
+* [Linkedin](https://www.linkedin.com/in/aejalov)
+*
+[Twitter](https://www.twitter.com/aejalov)
+*
+[Facebook](https://www.facebook.com/aejalov)
+* [Youtube](https://www.youtube.com/@aejalov)
+* [Instagram](https://www.instagram.com/aejalov]
+
+
+### Podcast/Music
+
+
+* [Bandlab](https://www.bandlab.com/aejalov)
+*
+[Spotify](https://open.spotify.com/user/icujon3lwnhm995g0x0hrt7ea?si=U_NAdJhjTYyY1ubiG2V0wQ)
+*
+[SoundCloud](https://on.soundcloud.com/wuChZ)
+
+...
+
+
+
+
+
+
+
+
+
+
+<as straight as a die>
