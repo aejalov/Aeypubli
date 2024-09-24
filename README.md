@@ -25,4 +25,4 @@
 
 
 
-Function greatUser(straight as a die)
+Function greatUser()straight as a die
