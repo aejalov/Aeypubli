@@ -1,6 +1,6 @@
 **𝙡𝙞𝙩𝙩𝙡𝙚 𝙨𝙩𝙧𝙤𝙠𝙚𝙨 𝙛𝙚𝙡𝙡 𝙜𝙧𝙚𝙖𝙩 𝙤𝙖𝙠𝙨**
 
-##### for any some engagement hit me up darlin, 
+##### For any some engagement hit me up darlin, 
 
 ### Expand your inner ability to expression, is one of all expective which anticipated from you. 
 
@@ -20,9 +20,17 @@
 
 
 
-
 ###### As straight as a die.
 
+
+
+
+
+
+
+
+<!doctype html>
+<html>
 <head></head>
 <body>
  <ul>
@@ -31,9 +39,4 @@
   <li>Contact</li>
  </ul>
 </body>
-body{
-Color: slateblue;
-border
-}
-
 
