@@ -23,6 +23,17 @@
 
 ###### As straight as a die.
 
+<head></head>
+<body>
+ <ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>Contact</li>
+ </ul>
+</body>
+body{
+Color: slateblue;
+border
+}
 
-###### home
 
