@@ -28,9 +28,7 @@
 
 
 
-
-<!doctype html>
-<html>
+if (true){console.log('alarme m3)}
 <head></head>
 <body>
  <ul>
