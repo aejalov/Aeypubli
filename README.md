@@ -35,3 +35,16 @@
  </ul>
 </body>
 
+from instapy import InstaPy
+
+# Initialize the InstaPy session
+session = InstaPy(username="aqopuloh", password="your_password")
+
+# Set the number of followers to gain per day
+session.set_do_follow(enabled=True, percentage=50)
+
+# Set the number of likes to gain per day
+session.set_do_like(enabled=True, percentage=50)
+
+# Start the session
+session.start()
