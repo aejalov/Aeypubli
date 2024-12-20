@@ -85,8 +85,4 @@ The Ancient 4,500-Year-Old Tunic at the Egyptian Museum is a remarkable artifact
 ## Sources
 
 * The information provided is based on the following sources:
-	+ "Ancient Egyptian Tunic". Egyptian Museum. <https://www.egyptianmuseum.gov.eg/en/collections/ancient-egyptian-tunic>
-	+ "The Tarkhan Dress: The Oldest Known Dress in the World". Ancient History Encyclopedia. <https://www.ancient.eu/article/1021/the-tarkhan-dress-the-oldest-known-dress-in-the-/>
-	+ "The Oldest Dress in the World". The Metropolitan Museum of Art. <https://www.metmuseum.org/blogs/now-at-the-met/2016/tarkhan-dress>
-	+ "The Tarkhan Dress: The Oldest Known Dress in the World". The British Museum. <https://www.britishmuseum.org/collection/object/Y_EA63494>
-	+ "The Tarkhan Dress: The Oldest Known Dress in the World". The University of Manchester. <https://www.manchester.ac.uk/discover/news/the-tarkhan-dress-the-oldest-known-dress-in-the-world/>
+	+ "Ancient Egyptian Tunic". Egyptian Museum. in the World". Ancient History Encyclopedia. "The Oldest Dress in the World". The Metropolitan Museum of Art.
